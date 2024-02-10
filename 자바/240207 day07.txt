@@ -1,0 +1,9 @@
+List > LinkedList > ArrayList
+ArrayList <클래스> name = new ArrayList<String>
+
+1.추가 : add(값)/add(1,값)
+2.삭제 : remove(값) / remove(인덱스번호) 
+3.변경 : set(1,값) 
+4.검색 : get(인덱스번호) / indexOf(값): 번호 
+
+
